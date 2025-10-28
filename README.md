@@ -6,7 +6,7 @@ This repository contains analysis of Bright Coffee Shop sales across 3 locations
 ## Structure
 - Input Data File (Project Description + Raw Data)
 - Working File (Excel Visuals + Project Plan)
-- Output File (Final Presentation + SQL Script + Python Script)
+- Output File (Final Presentation + SQL Script)
 - README.md
 
 ## Files
