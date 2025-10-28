@@ -64,29 +64,6 @@ Ultimately, the goal is not only to show *what* is happening in the business, bu
 
 ---
 
-## 📂 Repository Structure
-
-BrightCoffeeShop-Analysis/
-│
-├── Input Data Files/ # Raw Data + Project Requirements
-│ └── Bright Coffee Sales.csv
-│ └── Project Overview.pdf
-│
-├── Working Files/ # In-progress Work (Excel visuals + planning)
-│ └── Working File.xlsx
-│ └── Project Plan.pdf
-│
-├── Output Files/ # Final deliverables
-│
-│ └── Bright Coffee Shop Analysis.pptx
-│ └── Bright Coffee Shop Analysis.sql
-│ 
-│
-└── README.md # Project Documentation
-
-
----
-
 ## ✅ How to Use This Repository
 
 1. Review the **Input Data Files** to understand the source information.
